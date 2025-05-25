@@ -14,11 +14,11 @@ function Footer() {
           <p className="pip">Email: nylase12@gmail.com</p>
           <p className="pip">Phone: 09692304028</p>
           <p>
-            <a href="https://www.facebook.com/margaretteann.estanol" target="_blank" rel="noopener noreferrer" className="ff_cnt">
+            <a href="https://www.facebook.com/elysalyn.barlan.9" target="_blank" rel="noopener noreferrer" className="ff_cnt">
               Facebook
             </a>{" "}
             |{" "}
-            <a href="https://www.instagram.com/margaretteannf/" target="_blank" rel="noopener noreferrer" className="f_cnt">
+            <a href="https://t.me/elimint24" target="_blank" rel="noopener noreferrer" className="f_cnt">
               Telegram
             </a>
           </p>
